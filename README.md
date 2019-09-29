@@ -1,3 +1,3 @@
 # Logica-programacao---java
 SRC
-Aqui consta todos o exemplos e resolução de exercício deste curso em linguagem java.
+Aqui estou postando todos o exemplos e resolução de exercício, do curso de java, que estou fazendo do professor Nélio Alves.
